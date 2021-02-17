@@ -123,4 +123,4 @@ function splitIntoParts(lines, separator) {
 	return parts;
 }
 
-export default parseGitPatch;
+exports.default = parseGitPatch;
