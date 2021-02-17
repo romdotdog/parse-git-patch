@@ -3,6 +3,7 @@
   "version": "1.0.7",
   "description": "Parse git patches with ease",
   "main": "index.js",
+  "typings": "index.d.ts",
   "files": [
     "index.js"
   ],
