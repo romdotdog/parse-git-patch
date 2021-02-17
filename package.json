@@ -1,36 +1,36 @@
 {
-  "name": "parse-git-patch",
-  "version": "1.0.7",
-  "description": "Parse git patches with ease",
-  "main": "index.js",
-  "typings": "index.d.ts",
-  "files": [
-    "index.js"
-  ],
-  "scripts": {
-    "test": "jest"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/dherault/parse-git-patch.git"
-  },
-  "keywords": [
-    "git",
-    "patch",
-    "patches",
-    "diff",
-    "parse",
-    "parser"
-  ],
-  "author": "David Hérault <dherault@gmail.com> (https://github.com/dherault)",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/dherault/parse-git-patch/issues"
-  },
-  "homepage": "https://github.com/dherault/parse-git-patch#readme",
-  "devDependencies": {
-    "eslint": "^6.8.0",
-    "eslint-config-dherault": "^1.0.8",
-    "jest": "^25.1.0"
-  }
+	"name": "parse-git-patch",
+	"version": "1.1.0",
+	"description": "Parse git patches with ease",
+	"main": "index.js",
+	"types": "index.d.ts",
+	"files": [
+		"index.js"
+	],
+	"scripts": {
+		"test": "jest"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/romdotdog/parse-git-patch"
+	},
+	"keywords": [
+		"git",
+		"patch",
+		"patches",
+		"diff",
+		"parse",
+		"parser"
+	],
+	"author": "Roman F. (https://github.com/romdotdog) ante David Hérault <dherault@gmail.com> (https://github.com/dherault)",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/romdotdog/parse-git-patch/issues"
+	},
+	"homepage": "https://github.com/romdotdog/parse-git-patch#readme",
+	"devDependencies": {
+		"eslint": "^6.8.0",
+		"eslint-config-dherault": "^1.0.8",
+		"jest": "^25.1.0"
+	}
 }
